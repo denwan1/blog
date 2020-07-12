@@ -1,0 +1,2 @@
+# blog
+information simplified
